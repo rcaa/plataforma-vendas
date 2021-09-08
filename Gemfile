@@ -54,7 +54,7 @@ group :development, :test do
   # Use SimpleCov as code coverage for Ruby
   gem 'simplecov', require: false
   # Use Better Errors to show error page with more details
-  gem 'better_errors', '~> 2.4'
+  gem 'better_errors', '~> 2.8'
   gem 'binding_of_caller'
 end
 
